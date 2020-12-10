@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🙋🏼‍♂️ My name is Hector and I’m a Graphic Designer from Mexico City.
+📱 I’m an Apple’s Fan, I like video games 🎮, drink coffee ☕️ and listen to music 🎧.
+I’m currently learning 💻 Web Development at @Platzi and @beduExpert.
+👨🏼‍💻 I Never stop learning.
+
 <!--
 **padhec/padhec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
