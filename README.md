@@ -2,7 +2,7 @@
 
 🙋🏼‍♂️ My name is Hector and I’m a Graphic Designer from Mexico City.
 📱 I’m an Apple’s Fan, I like video games 🎮, drink coffee ☕️ and listen to music 🎧.
-I’m currently learning 💻 Web Development at @Platzi and @beduExpert.
+💻 I’m currently learning Web Development at @Platzi.
 🚀 I Never stop learning.
 
 [![Twitter: padhec](https://img.shields.io/twitter/follow/padhec?style=social)](https://twitter.com/padhec)
